@@ -1,0 +1,20 @@
+{
+  "name": "diy-crypto",
+  "version": "1.0.0",
+  "description": "<mark>Gör git commit, add och push efter varje steg/deluppgift. Detta är obligatoriskt.</mark>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theswedishdeveloper/diy-crypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theswedishdeveloper/diy-crypto/issues"
+  },
+  "homepage": "https://github.com/theswedishdeveloper/diy-crypto#readme",
+  "type": "module"
+}
